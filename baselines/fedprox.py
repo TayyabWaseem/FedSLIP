@@ -1,1 +1,0 @@
-# FedProx baseline implementation

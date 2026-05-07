@@ -1,3 +1,3 @@
-# FedLISP
+# FedSLIP
 
-Federated LoRA-Identity-Sparse-Personalization
+Federated Sparse-LoRA-Identity-Personalization
